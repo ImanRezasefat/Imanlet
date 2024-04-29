@@ -1,0 +1,44 @@
+.home {
+  width: 360px;
+  height: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+.section {
+  text-align: center;
+  margin: 50px auto;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.balance,
+.address {
+  font-size: 18px;
+  color: #333;
+  margin-bottom: 10px;
+  text-overflow: clip;
+}
+
+.balance span,
+.address span {
+  font-weight: bold;
+  color: #007bff;
+}
+
+.address {
+  font-size: 16px;
+}
+
+.send-section {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+  padding: 20px;
+}
+.input-group {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
