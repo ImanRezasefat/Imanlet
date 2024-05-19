@@ -2,7 +2,7 @@
 
 This Chrome extension provides a user-friendly interface for interacting with the Ethereum blockchain. It allows users to create accounts, log in, send and receive Ether, and more, all within the convenience of a browser extension.
 Checkout this video I explained all the steps.
-[Build Your Own Crypto Wallet Extension with React & Web3]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/ZrfjZb9bLp4))
+[Build Your Own Crypto Wallet Extension with React & Web3]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/ZrfjZb9bLp4)
 ## Features
 
 - **Create Account**: Users can create a new Ethereum account directly from the extension.
